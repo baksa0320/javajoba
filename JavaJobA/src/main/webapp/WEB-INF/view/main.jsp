@@ -21,5 +21,6 @@
 		<a href="<c:url value='/logout'/>">[로그아웃]</a>
 	</p>
 	</c:if>
+	<a href="/main">1234</a>
 </body>
 </html>
